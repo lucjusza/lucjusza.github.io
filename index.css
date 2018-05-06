@@ -35,13 +35,13 @@ body
 .three
 {
 	grid-area:4/1/7/3;
-	background-image: url("img07.jpg");
+	background-image: url("img08.jpg");
 	background-size:cover;
 }
 .four
 {
 	grid-area:4/3/5/4;
-	background-image: url("img08.jpg");
+	background-image: url("img07.jpg");
 }
 .five
 {
