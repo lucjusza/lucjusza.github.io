@@ -21,7 +21,7 @@ body
 
 .link
 {
-	margin: 250px;
+	margin: 200px;
 	text-align: center;
 }
 
@@ -59,7 +59,7 @@ body
 	text-align: center;
 }
 
-@media screen and (max-width: 300px)
+@media screen and (max-width: 200px)
 {
 	.main
 	{
