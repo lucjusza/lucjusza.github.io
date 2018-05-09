@@ -125,8 +125,12 @@ Tabela. 2. Elektrownie wodne na rzece Radunia
 == Kilka fotek na zachętę:
 
 
-image::img02.jpg[fotka02,500]
+image::img02.jpg[fotka02,500]       image::img02.jpg[fotka02,500]
 
-image::img03.jpg[fotka03,500]
+image::img03.jpg[fotka03,500]       image::img02.jpg[fotka02,500]
+
+image::img03.jpg[fotka03,500]       image::img04.jpg[fotks04,500]
+
+image::img04.jpg[fotks04,500]       image::img03.jpg[fotka03,500]
 
 image::img04.jpg[fotks04,500]
