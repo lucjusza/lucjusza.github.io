@@ -3,7 +3,7 @@
 
 ** (W języku kaszubskim -  Reduniô)
 
-image::img01.jpg[img01.jpg,300]
+image::img01.jpg[img01.jpg,400]
 
 
 Foto.1. Widok na rzekę.
@@ -125,6 +125,6 @@ Tabela. 2. Elektrownie wodne na rzece Radunia
 == Kilka fotek na zachętę:
 
 
-image::img02.jpg[fotka02,]
-image::img03.jpg[fotka03,]
-image::img04.jpg[fotks04,]
+image::img02.jpg[fotka02,400]
+image::img03.jpg[fotka03,400]
+image::img04.jpg[fotks04,400]
