@@ -3,7 +3,8 @@
 
 ** (W języku kaszubskim -  Reduniô)
 
-image::img01.jpg[]
+image::img01.jpg[img01.jpg,300]
+
 
 Foto.1. Widok na rzekę.
 
